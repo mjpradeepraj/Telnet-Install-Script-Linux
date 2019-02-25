@@ -1,2 +1,2 @@
-# Telnet-Install-Script-Linux
-Automated telnet Install script
+# Telnet-Server-Install-Script-Linux
+Automated telnet Server Install script
